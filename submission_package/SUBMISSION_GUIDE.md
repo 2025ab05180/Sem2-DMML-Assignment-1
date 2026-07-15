@@ -5,10 +5,22 @@
 | Field | Detail |
 |-------|--------|
 | **Course** | Data Management for Machine Learning (AIMLCZG529 / DSECLZG529) |
+| **Programme** | M.Tech AI/ML — BITS Pilani WILP |
 | **Semester** | S2-25 |
 | **Assignment** | Assignment I |
 | **Weightage** | 20 Marks (EC1) |
+| **Group Number** | 43 |
 | **Submission Deadline** | **22 July 2026** |
+
+## Team Members — Group 43
+
+| # | Name | BITS ID | Email |
+|---|------|---------|-------|
+| 1 | BRAJESH MISHRA | 2025AB05161 | 2025ab05161@wilp.bits-pilani.ac.in |
+| 2 | YENGANTIWAR PRASHANT SAINATH | 2025AB05178 | 2025ab05178@wilp.bits-pilani.ac.in |
+| 3 | ARTHIKA G | 2025AB05180 | 2025ab05180@wilp.bits-pilani.ac.in |
+| 4 | A SRIKAR | 2025AB05185 | 2025ab05185@wilp.bits-pilani.ac.in |
+| 5 | GIRIDHARAN B | 2025AB05188 | 2025ab05188@wilp.bits-pilani.ac.in |
 
 ---
 

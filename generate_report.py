@@ -109,7 +109,9 @@ def generate_report():
         "Data Management for Machine Learning (AIMLCZG529 / DSECLZG529)",
         "Semester: S2-25",
         "Assignment I — EC1 (20 Marks)",
-        f"Submission Date: 22.07.2026",
+        "Group Number: 43",
+        "Programme: M.Tech AI/ML — BITS Pilani WILP",
+        "Submission Date: 22.07.2026",
     ]
     for line in info_lines:
         p = doc.add_paragraph()
@@ -133,9 +135,11 @@ def generate_report():
     add_table(doc,
               ["Name", "BITS ID", "Email"],
               [
-                  ["<Your Name>", "<Your BITS ID>", "<Your Email>"],
-                  ["<Member 2 Name>", "<BITS ID>", "<Email>"],
-                  ["<Member 3 Name>", "<BITS ID>", "<Email>"],
+                  ["BRAJESH MISHRA", "2025AB05161", "2025ab05161@wilp.bits-pilani.ac.in"],
+                  ["YENGANTIWAR PRASHANT SAINATH", "2025AB05178", "2025ab05178@wilp.bits-pilani.ac.in"],
+                  ["ARTHIKA G", "2025AB05180", "2025ab05180@wilp.bits-pilani.ac.in"],
+                  ["A SRIKAR", "2025AB05185", "2025ab05185@wilp.bits-pilani.ac.in"],
+                  ["GIRIDHARAN B", "2025AB05188", "2025ab05188@wilp.bits-pilani.ac.in"],
               ])
 
     doc.add_page_break()
